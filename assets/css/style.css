@@ -1,0 +1,77 @@
+/* 
+	Author: Lucatro
+	Date: 07/09/2018
+*/
+
+@import url('https://fonts.googleapis.com/css?family=Lato:300,400');
+
+* {
+	font-family: 'Lato';
+}
+
+@font-face {
+    font-family: Gotham-Black;
+    src: url(../fonts/GOTHAM-BLACK.TTF);
+}
+
+@font-face {
+    font-family: Gotham-Bold;
+    src: url(../fonts/Gotham-Bold.ttf);
+}
+
+.navbar-default {
+	background: #00a8ff;
+	padding: 5px;
+	border-radius: 0;
+	border: 0;
+	border-bottom: 3px solid #0097e6;
+	color: #fff!important;
+	font-size: 1.15em;
+	-webkit-box-shadow: 3px 6px 35px -4px rgba(6, 43, 63,0.40);
+	-moz-box-shadow: 3px 6px 35px -4px rgba(6, 43, 63,0.40);
+	box-shadow: 3px 6px 35px -4px rgba(6, 43, 63,0.40);
+}
+
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+    background-color: transparent;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #fff;
+}
+
+.navbar-toggle {
+    border-radius: 0;
+}
+
+.navbar-default .navbar-brand, .navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {
+	font-family: 'Gotham-Bold';
+	font-weight: bold;
+	font-size: 1.25em;
+    color: #fff;
+}
+
+.navbar-default .navbar-nav>li>a, .navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover {
+	font-family: 'Gotham-Bold';
+    color: #fff;
+}
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
+    color: #555;
+    background: none;
+}
+
+.underline {
+	padding: 5px;
+}
+
+#logo {
+	max-width: 450px;
+	margin: 25px;
+}
+
+@media (min-width: 768px) { 
+	#logo {
+		max-width: auto;
+	}
+}
