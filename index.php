@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
-		<title>Eloh1</title>
+		<title>Server name</title>
 	    <meta charset="UTF-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 		<meta name="keywords" content="Eloh design, Eloh webdevelopment, WebDevelopment service, Prestiges, Eloh mc-market, Eloh spigotmc, Eloh spigot, Eloh minecraft italia, Eloh arkem, Eloh lucatro, Eloh dragon3blu"/>
